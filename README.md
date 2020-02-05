@@ -1,12 +1,12 @@
-# vagrant-restore
+# Vagrant-restore de un sitio web
 Recuperación de un sitio Web hecho con Vagrant
 
-Requerimientos
+# Requerimientos
 
 1.  Tener instalado drush en la maquina virtual creada con VirtualBox  y Vagrant en Windows.
 2.  Haber generado un respaldo del sitio web con drush archive-backup. 
 
-Pasos
+# Pasos
  
 1. Instalar Vagrant y el plugin hostsupdater (vagrant plugin install vagrant-hostsupdater)
 2. Siga las instrucciones de https://www.webfoobar.com/node/52
