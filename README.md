@@ -4,7 +4,8 @@ Recuperación de un sitio Web hecho con Vagrant
 # Requerimientos
 
 1.  Tener instalado drush en la maquina virtual creada con VirtualBox  y Vagrant en Windows.
-2.  Haber generado un respaldo del sitio web con drush archive-backup. 
+2  Con Power Shell de Windows ejecutar:  Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-All
+3.  Haber generado un respaldo del sitio web con drush archive-backup. 
 
 # Pasos
  
